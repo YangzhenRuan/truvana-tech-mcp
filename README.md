@@ -1,5 +1,7 @@
 # Truvana Tech MCP server
 
+[![Truvana Tech MCP connector](https://glama.ai/mcp/connectors/com.truvanatech/site/badges/score.svg)](https://glama.ai/mcp/connectors/com.truvanatech/site)
+
 **Card processing, payment fees and POS answers for small restaurants and stores, inside ChatGPT, Claude and other AI assistants.**
 
 A free, public [MCP](https://modelcontextprotocol.io) server from [Truvana Tech](https://truvanatech.com?utm_source=github&utm_medium=readme&utm_campaign=mcp). Connect it to your AI assistant, then ask about card fees, surcharge and cash discount rules in your state, delivery-app commissions or leaving a processor contract. The assistant answers from Truvana Tech's published guides and runs the same calculators as [truvanatech.com/tools](https://truvanatech.com/tools?utm_source=github&utm_medium=readme&utm_campaign=mcp), so the numbers match the website.
