@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "truvana-tech": {
+      "type": "http",
+      "url": "https://truvanatech.com/mcp"
+    }
+  }
+}

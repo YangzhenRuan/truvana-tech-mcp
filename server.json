@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.truvanatech/site",
+  "title": "Truvana Tech Card Processing and POS Database",
+  "description": "Card fees, surcharge laws and POS guides for small restaurants and stores, plus fee calculators",
+  "version": "1.1.1",
+  "websiteUrl": "https://truvanatech.com",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://truvanatech.com/mcp"
+    }
+  ],
+  "repository": {
+    "url": "https://github.com/YangzhenRuan/truvana-tech-mcp",
+    "source": "github"
+  }
+}
