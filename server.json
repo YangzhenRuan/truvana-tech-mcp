@@ -3,8 +3,17 @@
   "name": "com.truvanatech/site",
   "title": "Truvana Tech Card Processing and POS Database",
   "description": "Card fees, surcharge laws and POS guides for small restaurants and stores, plus fee calculators",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "websiteUrl": "https://truvanatech.com",
+  "icons": [
+    {
+      "src": "https://pub-54db16dabf67486aa4a78b1e8be9bc86.r2.dev/media/truvanatech/grfzmrzoi4aw1sv3ff09l2gg/original.webp",
+      "mimeType": "image/webp",
+      "sizes": [
+        "512x512"
+      ]
+    }
+  ],
   "remotes": [
     {
       "type": "streamable-http",
